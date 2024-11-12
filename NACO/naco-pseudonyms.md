@@ -661,8 +661,6 @@ Anthea, active 2009
 670 ## Anthealawson.com website, Nov. 17, 2010: ‡b (Anthea
 Lawson; are a husband and wife creative team living in
 the Pacific Northwest. Their first novel, Passionate, was
-```
-
 released from Kensington books in October 2008;
 Musicians as well as writers, the two have recorded
 many CDs, including several with their Celtic band
@@ -673,5 +671,6 @@ Celtic groups in the Northwest ... features Anthea
 Lawrence on fiddle and vocals, Audra Poor on Uillean
 pipes, flute, and whistle, and Lawson Dumbeck on guitar,
 banjo, bouzouki, and bodhran)
+```
 
 
